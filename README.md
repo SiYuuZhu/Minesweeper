@@ -2,7 +2,7 @@
 A remastered version of the Windows XP (Style) Minesweeper game, implemented in Java.
 
 ## Feature
-- Mark/unmark mines
+- flag/deflag mines
 - a timer recording the time taken
 - record the number of remaining flag
 - end when click on a mine
